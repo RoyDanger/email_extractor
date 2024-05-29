@@ -1,0 +1,6 @@
+# Ignore sensitive files
+*.json
+token.json
+venv/
+emails.xml
+image/
